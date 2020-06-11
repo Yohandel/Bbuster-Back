@@ -5091,23 +5091,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Yohandel OrionTek\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\yohan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yohandel OrionTek\\Documents\\Projects\\ApiRestTest\\ApiRestTest.csproj",
+      "projectUniqueName": "C:\\Users\\yohan\\Documents\\Projects\\Web\\Bbuster\\Bbuster-Back\\ApiRestTest.csproj",
       "projectName": "ApiRestTest",
-      "projectPath": "C:\\Users\\Yohandel OrionTek\\Documents\\Projects\\ApiRestTest\\ApiRestTest.csproj",
-      "packagesPath": "C:\\Users\\Yohandel OrionTek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yohandel OrionTek\\Documents\\Projects\\ApiRestTest\\obj\\",
+      "projectPath": "C:\\Users\\yohan\\Documents\\Projects\\Web\\Bbuster\\Bbuster-Back\\ApiRestTest.csproj",
+      "packagesPath": "C:\\Users\\yohan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yohan\\Documents\\Projects\\Web\\Bbuster\\Bbuster-Back\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Yohandel OrionTek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yohan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5168,7 +5164,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
